@@ -1,12 +1,12 @@
 const mongoose = require('mongoose')
 
-const StadiumSchema = mongoose.Schema({
+const stadiumSchema = mongoose.Schema({
     title: String,
     capacidad: Number,
     descripcion: String,
     image: String  
 })
 
-const stadium = mongoose.model('stadium', StadiumSchema)
+const Stadium = mongoose.model('stadium', stadiumSchema)
 
-module.exports = stadium; 
+module.exports = Stadium; 
