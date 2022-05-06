@@ -4,42 +4,42 @@
         "title": "Lusail Stadium",
         "capacidad": "80.000",
         "description": "El techo del estadio estará cubierto por paneles solares, por lo que generará electricidad propia y también abastecerá a zonas aledañas. La parte central podrá abrirse y cerrarse de acuerdo a las condiciones meteorológicas y, por las altas temperaturas, tendrá un novedoso sistema de enfriamiento.",
-        "image": "/assets/img/products/img1.jpg"
+        "image": "https://imgur.com/E13frSg"
     },
     {
         "id": 1,
         "title": "Albayt Stadium",
         "capacidad": 60000,
         "description": "El diseño del Al Bayt  minimizará el consumo de energía requerido para mantener frescos a los espectadores. Está previsto que los toldos de la estructura de tienda den sombra en la cancha para complementar el funcionamiento del aire acondicionado.",
-        "image": "/assets/img/products/img1.jpg"
+        "image": "https://imgur.com/D1zVJEN"
     },
     {
         "id": 2,
         "title": "Rayyan Stadium",
         "capacidad": 40000,
         "description": "El complejo, además, tendrá equipamiento hotelero y otros servicios complementarios. Y, al igual que el resto de los estadios, contarán con un eficiente sistema de climatización, que ayudará a evitar las altas temperaturas de la región.",
-        "image": "/assets/img/products/img1.jpg"
+        "image": "https://imgur.com/1fm04C5"
     },
     {
         "id": 3,
         "title": "Thumama Stadium",
         "capacidad": 40000,
         "description": "Después del Mundial la capacidad será reducida de 40.000 a 20.000 asientos. Las 20.000 butacas retiradas serán donadas a países con necesidad de infraestructura deportiva. El Estadio reducido continuará activo, siendo el anfitrión de eventos de fútbol y otros deportes. ",
-        "image": "/assets/img/products/img1.jpg"
+        "image": "https://imgur.com/znD0gil"
     },
     {
         "id": 4,
         "title": "Janoub Stadium",
         "capacidad": 40000,
         "description": "Tuvo un costo de 575 millones de dólares y se necesitaron 10 millones de horas de trabajo para levantarlo desde cero. Posee un sistema de refrigeración debajo de los asientos que les permitirá a los espectadores disfrutar los partidos con 24 grados aunque la temperatura externa sea de 36 ó 40. Incluso, también equipos de aire acondicionado en las fueras del estadio para aliviar a las personas que estén en el ingreso.",
-        "image": "/assets/img/products/img1.jpg"
+        "image": "https://imgur.com/Tl6qJmk"
     },
     {
         "id": 5,
         "title": "Estadio educativo city",
         "capacidad": 45000,
         "description": "Fue construido cerca de una estación de subte, en el corazón de Doha, capital del país, y tiene un sistema de aire acondicionado de alta tecnología.",
-        "image": "/assets/img/products/img1.jpg"
+        "image": "https://imgur.com/ev3cgDC"
     },
     {
         "id": 6,
@@ -53,6 +53,6 @@
         "title": "Ras Abu Aboud Stadium",
         "capacidad": 40000,
         "description": "Construido con contenedores para transportes, asientos removibles y otros bloques de construcción modulares, esta sede no sólo tiene un llamativo diseño, sino que encima, después del Mundial, la estructura será desmontada totalmente y reaprovechada. Sus componentes serán usados en otros proyectos deportivos y se construirá un paseo marítimo en el lugar.",
-        "image": "/assets/img/products/img1.jpg"
+        "image": "https://imgur.com/OAOcCwt"
     }
 ]
